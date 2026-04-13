@@ -1,12 +1,16 @@
 ## Hi there 👋 I'm Elythra
+
 Based in Suqian, Jiangsu | Student 
-I am currently focusing on **PHP** and **JavaScript/TypeScript**. I love building lightweight tools and exploring the endless possibilities of the web. If you find my projects helpful, a ⭐ would make my day!
+I am currently focusing on **PHP** and **JavaScript/TypeScript**.
+I love building lightweight tools and exploring the endless possibilities of the web. If you find my projects helpful, a ⭐ would make my day!
 ---
 ### Tech Stack
+
 - **Languages:** PHP, JavaScript (ES6+), TypeScript
 - **Frameworks/Tools:** Tailwind CSS, and balabalala...
 
 ### Connect with me
+
 - **QQ:** 3773328720
 - **Email:** [e.lythra@qq.com](mailto:e.lythra@qq.com)
 - **Website:** [elythradev.github.io](https://elythradev.github.io)
